@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Mohd Zaid
 
-<!--
-**itszaidsidd/itszaidsidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer | Java | Web Developer | SQL (Oracle & MySQL) | Built Real-World Projects 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Java, C, C++, Python  
+- HTML, CSS, JavaScript, JSP, React  
+- Oracle SQL, MySQL  
+- Data Structures & Algorithms  
+
+---
+
+## 🚀 Projects 
+- 🎓 Knowledge Zone (E-Learning Platform)
+- 📚 Online Book Store 
+- 📒 Contact Management System  
+
+---
+
+## 📫 Connect with me
+- Email: mohd.zaid.dev@gmail.com   
+
+---
+
+⭐ Always learning new technologies and improving my coding skills!
