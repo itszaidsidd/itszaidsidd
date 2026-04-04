@@ -20,7 +20,7 @@
 ---
 
 ## 📫 Connect with me
-- Email: mohd.zaid.dev@gmail.com   
+- Email: itszaidsidd@gmail.com   
 
 ---
 
