@@ -1,3 +1,5 @@
+![Banner](https://github.com/itszaidsidd/itszaidsidd/blob/main/banner.png)
+
 # Hi 👋, I'm Mohd Zaid
 
 💻 Aspiring Software Engineer | Java | Web Developer | SQL (Oracle & MySQL) | Built Real-World Projects 🚀
