@@ -62,7 +62,7 @@
 
 ### :globe_with_meridians: Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-zaid-454231326/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itszaidsidd/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itszaidsidd@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-007EC6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itszaidsidd.vercel.app/)
 
