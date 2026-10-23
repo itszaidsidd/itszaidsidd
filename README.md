@@ -34,10 +34,10 @@
 
 | Project Name | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **Developer Portfolio** | React.js, Tailwind CSS, Web3Forms | Modern fully-responsive portfolio with serverless contact form integration. | [GitHub](https://github.com/itszaidsidd) |
-| **E-Learning Platform** | Java, Spring Boot, React, MySQL | Full-stack educational portal with dynamic quizzes and user score tracking. | [GitHub](https://github.com/itszaidsidd) |
-| **Online Book Store** | Java, JSP, Oracle SQL, HTML/CSS | Web app enabling user authentication, catalog browsing, and PDF digital downloads. | [GitHub](https://github.com/itszaidsidd) |
-| **Real-Time Chat App** | Java, Java Swing, Sockets | Peer-to-peer desktop messaging application using TCP/IP socket programming. | [GitHub](https://github.com/itszaidsidd) |
+| **Developer Portfolio** | React.js, Tailwind CSS, Web3Forms | Modern fully-responsive portfolio with serverless contact form integration. | [GitHub](https://github.com/itszaidsidd/Portfolio) |
+| **E-Learning Platform** | Java, Spring Boot, React, MySQL | Full-stack educational portal with dynamic quizzes and user score tracking. | [GitHub](https://github.com/itszaidsidd/Knowledge-Zone-an-E-Learning-Plateform) |
+| **Online Book Store** | Java, JSP, Oracle SQL, HTML/CSS | Web app enabling user authentication, catalog browsing, and PDF digital downloads. | [GitHub](https://github.com/itszaidsidd/onlinebookstore) |
+| **Real-Time Chat App** | Java, Java Swing, Sockets | Peer-to-peer desktop messaging application using TCP/IP socket programming. | [GitHub](https://github.com/itszaidsidd/Chatting-Application) |
 
 ---
 
