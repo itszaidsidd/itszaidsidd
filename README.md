@@ -50,12 +50,12 @@
   />
   <img
     width="41%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=itszaidsidd&layout=compact&theme=github_dark&border_color=30363d&border_radius=12&cache_seconds=1800"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=itszaidsidd&layout=compact&theme=github_dark&border_color=30363d&border_radius=12&cache_seconds=1800&v=2"
   />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=itszaidsidd&theme=github_dark&border=30363d&border_radius=12"/>
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=itszaidsidd&theme=github_dark&border=30363d&border_radius=12&v=2"/>
 </p>
 
 ---
