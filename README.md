@@ -46,7 +46,7 @@
 <p align="center">
   <img
     width="54%"
-    src="https://github-stats-extended.vercel.app/api?username=itszaidsidd&show_icons=true&theme=github_dark&border_color=30363d&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="https://github-stats-extended.vercel.app/api?username=itszaidsidd&show_icons=true&theme=github_dark&border_color=30363d&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"
   />
   <img
     width="41%"
